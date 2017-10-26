@@ -1,0 +1,64 @@
+*{
+  margin: 0;padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 1006px;
+  margin:0 auto;
+}
+h1{
+  text-align: center;
+  padding: 20px 0;
+}
+.box{
+  width: 1000px;
+  height: 500px;
+  border: 3px solid blue;
+  margin-bottom: 5px;
+}
+.box div{
+  padding: 10px;
+}
+.box div h2{
+  font-size:30px;
+  color: #1c70e9;
+}
+.box div p{
+  padding-left: 50px;
+}
+.content{
+  width: 1000px;
+  padding: 10px 0;
+  background: blue;
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+}
+.ues{
+  width:250px;
+  height: 30px;
+  padding: 10px;
+}
+.val{
+  width: 400px;
+  height: 30px;
+  padding: 10px;
+}
+.btn{
+  width: 200px;
+  height: 30px;
+  background: transparent;
+  border: 1px solid #eff1f5;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
